@@ -1,0 +1,12 @@
+{
+  "files": [
+    "./lib/crawler.ts"
+  ],
+  "compilerOptions": {
+    "rootDir": "./lib",
+    "module": "ESNext",
+    "target": "ESNext",
+    "outDir": "dist",
+    "moduleResolution": "Node"
+  }
+}
